@@ -1,6 +1,6 @@
-# svg-roulette
+# svg-roulette-wheel
 
-This is a customisable svg file for a casino roulette.
+A customizable svg file depicting a casino roulette wheel.
 
 Feel free to use it for anything!
 
